@@ -1,0 +1,27 @@
+
+
+
+
+
+
+#quote {
+    font-size: 2rem;
+    height: 8rem;
+}
+
+button {
+    background:  coral;
+    
+}
+
+.wrapper {
+    border-radius: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 0 auto;
+}
+
+#history {
+    color: rgb(16, 74, 74);
+    text-align: center;
+}
