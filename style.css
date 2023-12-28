@@ -1,17 +1,27 @@
-
-
-
-
-
-
 #quote {
     font-size: 2rem;
     height: 8rem;
+    display: grid;
+    text-align: center;
+    color: darkolivegreen
 }
 
 button {
-    background:  coral;
-    
+    background: rgb(152, 180, 154);
+    margin: auto;
+    display: flex center;
+    display: grid;
+    width: 15rem;
+    height: 2rem;
+    font-size: 1rem;
+    color: white;
+    border-radius: 0.5rem;
+    justify-content: center;
+    border-color: black;
+    vertical-align: center;
+    text-align: center;
+    line-height: 1.5rem;
+
 }
 
 .wrapper {
@@ -22,6 +32,11 @@ button {
 }
 
 #history {
-    color: rgb(16, 74, 74);
+
+    color: rgb(140, 94, 94);
     text-align: center;
+    font-family: Monospace;
+    font-size: 1rem;
+    padding: 2rem;
+
 }
